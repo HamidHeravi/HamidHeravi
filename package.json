@@ -1,0 +1,27 @@
+{
+  "name": "hamidheravi",
+  "version": "1.0.0",
+  "description": "<!-- **HamidHeravi/hamidheravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha Suacesemo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamidHeravi/hamidheravi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamidHeravi/hamidheravi/issues"
+  },
+  "homepage": "https://github.com/HamidHeravi/hamidheravi#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^109.0.0"
+  }
+}
