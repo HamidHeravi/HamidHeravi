@@ -26,3 +26,7 @@
 
 
 ## for API test I used from super test
+### for runing API test you should install the following packages in a separate project:
+- Command to install packages - npm i --save-dev supertest mocha chai @babel/cli @babel/core @babel/node @babel/register @babel/preset-env
+- you should create .mocharc.yaml and put this line in it: require: '@babel/register'
+- you should create .babelrc and put this line in it: { "presets": ["@babel/preset-env"] }
