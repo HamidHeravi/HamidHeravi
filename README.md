@@ -17,7 +17,7 @@
  to this:
  
  "scripts": {
-    "test": "mocha MakeApponitment.js"
+    "test": "mocha"
   }
 
 
