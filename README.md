@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## setup project for E2E tests by this commands
 - npm int(run this command in your project folder)
 - npm install selenium-webdriver
